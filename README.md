@@ -57,7 +57,9 @@ Add a submit button and Link Bootstrap JavaScript.
 
 ## RESULT:
 This code creates a responsive feedback form for a virtual workshop on constructing modern websites built with Bootstrap.
-
+</br>
+</br>
+</br>
 ## Ex-10(b)
 ## AIM:
 Create a Responsive student registration form for ABC Engineering College built with Bootstrap.
@@ -118,6 +120,9 @@ Link the Bootstrap JavaScript file at the end of the body.
 
 ## RESULT:
 This code creates a Responsive student registration form for ABC Engineering College built with Bootstrap.
+</br>
+</br>
+</br>
 
 ## Ex-10(c)
 ## AIM:
@@ -190,6 +195,8 @@ Add a script to handle the form validation on submit.
 This code develops a program to structure vertical form layouts which handle form validation in bootstrap.
 </br>
 </br>
+</br>
+
 ## Ex-10(d)
 ## AIM
 Create a basic email login form in Bootstrap with validation function.
